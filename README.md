@@ -217,3 +217,18 @@ The Observer pattern notifies observers of state changes so that they can update
 
 - Ideally, subjects and observers are loosely coupled.
 
+
+
+
+
+
+
+
+
+# WEEK 11:
+
+* Terms in OPP:
+- classes
+- encapsulation
+- inheritance
+- polymorphism
